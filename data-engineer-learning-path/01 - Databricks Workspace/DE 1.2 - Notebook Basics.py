@@ -58,6 +58,7 @@
 # COMMAND ----------
 
 print("I'm running Python!")
+print('Hello Python')
 
 # COMMAND ----------
 
